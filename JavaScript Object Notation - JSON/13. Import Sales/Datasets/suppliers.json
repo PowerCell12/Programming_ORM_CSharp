@@ -1,0 +1,126 @@
+[
+  {
+    "Name": "3M Company",
+    "IsImporter": true
+  },
+  {
+    "Name": "Agway Inc.",
+    "IsImporter": false
+  },
+  {
+    "Name": "Anthem, Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "Airgas, Inc.",
+    "IsImporter": false
+  },
+  {
+    "Name": "Atmel Corporation",
+    "IsImporter": true
+  },
+  {
+    "Name": "Big Lots, Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "Caterpillar Inc.",
+    "IsImporter": false
+  },
+  {
+    "Name": "Casey's General Stores Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "Cintas Corp.",
+    "IsImporter": false
+  },
+  {
+    "Name": "Chubb Corp",
+    "IsImporter": true
+  },
+  {
+    "Name": "Cintas Corp.",
+    "IsImporter": false
+  },
+  {
+    "Name": "CNF Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "CMGI Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "The Clorox Co.",
+    "IsImporter": false
+  },
+  {
+    "Name": "Danaher Corporation",
+    "IsImporter": true
+  },
+  {
+    "Name": "E.I. Du Pont de Nemours and Company",
+    "IsImporter": false
+  },
+  {
+    "Name": "E*Trade Group, Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "Emcor Group Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "GenCorp Inc.",
+    "IsImporter": false
+  },
+  {
+    "Name": "IDT Corporation",
+    "IsImporter": true
+  },
+  {
+    "Name": "Level 3 Communications Inc.",
+    "IsImporter": false
+  },
+  {
+    "Name": "Merck & Co., Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "Nicor Inc",
+    "IsImporter": false
+  },
+  {
+    "Name": "Olin Corp.",
+    "IsImporter": true
+  },
+  {
+    "Name": "Paychex Inc",
+    "IsImporter": true
+  },
+  {
+    "Name": "Saks Inc",
+    "IsImporter": false
+  },
+  {
+    "Name": "Sunoco Inc.",
+    "IsImporter": true
+  },
+  {
+    "Name": "Textron Inc",
+    "IsImporter": true
+  },
+  {
+    "Name": "VF Corporation",
+    "IsImporter": false
+  },
+  {
+    "Name": "Wyeth",
+    "IsImporter": true
+  },
+  {
+    "Name": "Zale",
+    "IsImporter": false
+  }
+]
